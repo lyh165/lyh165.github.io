@@ -148,5 +148,5 @@ ValueError: invalid literal for int() with base 10: 'abc'
 
 ### 参考源码
 
-[do_if.py]([https://github.com/lyh165/learnPython3/blob/master/code/basic/do_if.py)
+[do_if.py](https://github.com/lyh165/learnPython3/blob/master/code/basic/do_if.py)
 
