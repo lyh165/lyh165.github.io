@@ -103,3 +103,7 @@ return 11
 ### 小结
 
 把函数作为参数传入，这样的函数称为高阶函数，函数式编程就是指这种高度抽象的编程范式。
+
+### 参考源码
+
+[higher_order_function.py](https://github.com/lyh165/learnPython3/blob/master/code/functional/higher_order_function.py)
